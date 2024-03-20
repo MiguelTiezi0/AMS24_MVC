@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\23053\\.nuget\\packages\\": {}
+    "C:\\Users\\Fatec Taqua. 04\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,16 +16,18 @@
       "projectUniqueName": "E:\\2° Ano\\Escola\\Jefinho\\AMS24_ClassObject\\AMS24_ClassObject.csproj",
       "projectName": "AMS24_ClassObject",
       "projectPath": "E:\\2° Ano\\Escola\\Jefinho\\AMS24_ClassObject\\AMS24_ClassObject.csproj",
-      "packagesPath": "C:\\Users\\23053\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Fatec Taqua. 04\\.nuget\\packages\\",
       "outputPath": "E:\\2° Ano\\Escola\\Jefinho\\AMS24_ClassObject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\23053\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Fatec Taqua. 04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
